@@ -39,12 +39,9 @@ class AboutScreen extends StatelessWidget {
                     value:
                         'Flutter, Dart, Flutter Web, SharedPreferences, Deepgram Speech-to-Text, Яндекс Спеллер',
                   ),
-                  _InfoRow(label: 'Автор', value: 'ФИО автора'),
-                  _InfoRow(
-                    label: 'Учебное заведение',
-                    value: 'Название колледжа',
-                  ),
-                  _InfoRow(label: 'Группа', value: 'Номер группы'),
+                  _InfoRow(label: 'Автор', value: 'Шанаурина Анна Игоревна'),
+                  _InfoRow(label: 'Учебное заведение', value: 'НИУ МАИ'),
+                  _InfoRow(label: 'Группа', value: 'М8О-405Б-22'),
                 ],
               ),
             ),
